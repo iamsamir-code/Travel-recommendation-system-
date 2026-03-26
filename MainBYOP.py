@@ -1,4 +1,4 @@
-# AI-Based Travel Recommendation System (CLI)
+# Travel Recommendation System (CLI)
 places = [
     {"name": "Goa", "type": "beach", "budget": "medium", "season": "winter", "group": ["friends","solo"], "faith": "none"},
     {"name": "Manali", "type": "mountains", "budget": "low", "season": "summer", "group": ["friends","family"], "faith": "none"},
