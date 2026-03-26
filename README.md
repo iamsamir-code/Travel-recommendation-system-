@@ -1,4 +1,4 @@
-# AI-Based Travel Recommendation System (CLI)
+# Travel Recommendation System (CLI)
 ## Project Description
 This is a Command Line Interface (CLI) based travel recommendation system developed using Python. The system suggests travel destinations based on user preferences such as budget, type of place, season, group type, and religious preference.
 
