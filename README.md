@@ -45,5 +45,6 @@ Displays previous recommendations and stored user history.
 Closes the program.
 
 ## Project Structure
+BYOP Report.pdf
 BYOP.py  
 README.md
